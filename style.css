@@ -238,8 +238,8 @@ body {
     background-color: black;
     color: white;
     padding: 20px;
-    width: 700px;
     margin-left: 20%;
+    margin-right: 20%;
     border-radius: 10px;
 }
 .contacts-container input{
